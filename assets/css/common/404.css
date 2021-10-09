@@ -1,5 +1,4 @@
 .not-found {
-    position: absolute;
     left: 0;
     right: 0;
     display: flex;
@@ -8,4 +7,11 @@
     height: 80%;
     font-size: 160px;
     font-weight: 700;
+}
+
+.not-found-detail {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;    
 }
